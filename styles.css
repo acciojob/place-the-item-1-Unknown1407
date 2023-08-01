@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.first{
+	background-color:green;
+	height:100px;
+	width:100px;
+	display:inline-block;
+}
+.second{
+	background-color:red;
+	height:100px;
+	width:100px;
+	display:inline-block;
+}
+.third{
+	background-color:blue;
+	height:100px;
+	width:100px;
+	display:inline-block;
+}
+.box{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
